@@ -10,3 +10,8 @@ h1 {
 	font-size: 48px;
 	text-align: center;
 }
+
+p {
+	font-size: 30px;
+	color: blue;
+}
