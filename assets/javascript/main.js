@@ -2,7 +2,7 @@
 //GLOBAL VARIABLES
 //=======================
 
-alert("Hopefully this works!")
+
 
 
 //=======================
